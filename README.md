@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## metrics (by [lowlighter/metrics](https://github.com/lowlighter/metrics))
 ![Metrics](https://github.com/jagijagijag1/jagijagijag1/blob/master/github-metrics.svg)
+
+## my daily stress (by [Pixela](https://pixe.la/) & Garmin Connect)
+[![](https://pixe.la/v1/users/jagijagijag1/graphs/garmin-stress?appearance=dark)](https://pixe.la/v1/users/jagijagijag1/graphs/garmin-stress.html)
