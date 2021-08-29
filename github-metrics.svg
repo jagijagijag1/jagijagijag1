@@ -1284,19 +1284,19 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -1322,14 +1322,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="367.2413735897689" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="367.2413735897689" y="0" width="24.364567607708434" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="391.6059411974773" y="0" width="19.703481473267495" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="411.3094226707448" y="0" width="17.973999621057008" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="429.28342229180186" y="0" width="15.237192992872552" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="444.5206152846744" y="0" width="8.601220126587915" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="453.12183541126234" y="0" width="4.124890530005039" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="457.24672594126736" y="0" width="2.7532740587326714" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="367.76772900791525" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="367.76772900791525" y="0" width="24.226311763832587" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="391.99404077174785" y="0" width="19.591674791440035" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="411.5857155631879" y="0" width="17.872006820468698" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="429.45772238365663" y="0" width="15.150730100961342" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="444.60845248461794" y="0" width="8.552412818938954" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="453.16086530355693" y="0" width="4.1014839902172815" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="457.2623492937742" y="0" width="2.737650706225848" height="8" fill="#A97BFF"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
